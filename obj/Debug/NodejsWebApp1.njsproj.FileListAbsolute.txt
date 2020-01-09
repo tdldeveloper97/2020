@@ -1,2 +1,4 @@
 C:\Users\TranDacLuan\Desktop\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
 C:\Users\TranDacLuan\Desktop\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\TranDacLuan\Desktop\clone\2020\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+C:\Users\TranDacLuan\Desktop\clone\2020\bin\Microsoft.NodejsTools.WebRole.dll
